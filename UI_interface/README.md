@@ -1,4 +1,4 @@
-# Overview (Sample of this provided in form.html and index.html)
+# Overview (The user interface components are located in the templates folder.)
 To make the developed credit risk prediction model easily accessible, a RESTful API was
 implemented using the FastAPI framework. This API allows users or external systems
 to send applicant data and receive a predicted probability of loan default. In addition
