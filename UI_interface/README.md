@@ -32,10 +32,11 @@ Upon submission, the API processes the input and returns the following output:
 "Predicted Probability of Default": 0.2209,
 "Risk Classification": "Low Risk"
 
-# Batch Prediction and EDA
+# Batch Prediction 
 The Batch Prediction tab allows users to upload a dataset containing multiple applicants.
 The API processes the batch and returns a list of predicted probabilities and classifications.
 
+# EDA
 The EDA tab provides interactive tools to explore the dataset, including:
 • Summary statistics and missing value analysis
 • Lists of numerical and categorical features
